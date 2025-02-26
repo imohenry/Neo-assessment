@@ -23,12 +23,12 @@ This project is a responsive landing page featuring a rotating slider, a three-s
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/landing-page-project.git
+   git clone https://github.com/imohenry/Neo-assessment.git
    ```
 
 2. **Navigate to the Project Directory**:
    ```bash
-   cd landing-page-project
+   cd Neo-assessment
    ```
 
 3. **Open `index.html` in a Web Browser**:
@@ -50,4 +50,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For any questions or feedback, please contact [your-email@example.com](mailto:your-email@example.com).
+For any questions or feedback, please contact [your-email@example.com](mailto:henryimoh2@gmail.com).
