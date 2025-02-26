@@ -601,12 +601,19 @@ a:hover, a:active, a:focus {
       border: 1.8px solid #a8d6ef;
     }
   }
+  .card_container {
+    grid-template-columns: 1fr !important;
+  }
+
+  .col-sm-7 {
+    width: 100% !important;
+  }
 }
 
 .other_container {
   max-width: 1380px !important;
   margin: 0 auto !important;
-  padding: 95px 100px;
+  padding: 95px 50px;
   display: flex;
     overflow: hidden !important;
     flex-direction: column;
